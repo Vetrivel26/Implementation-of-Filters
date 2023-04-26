@@ -37,8 +37,8 @@ Display all the images with their respective filters.
 
 
 ## Program:
-### Developed By   :Aavula Tharun
-### Register Number:212221240003
+### Developed By   : VETRIVEL S
+### Register Number:212221240060
 
 ~~~
 import cv2
